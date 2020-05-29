@@ -176,6 +176,9 @@ volumes:
 ------|---------|
 root  | 5iveL!fe|
 
+### 注意事项
+
+* 请注意修改以上`docker-compose`文件的`GITLAB_HOST`为运行容器的服务器的实际地址。
 
 ### 参考
 
